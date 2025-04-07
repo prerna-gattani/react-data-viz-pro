@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-data-viz-pro/static/css/main.e6c13ad2.css",
-    "main.js": "/react-data-viz-pro/static/js/main.5d4fc4ab.js",
+    "main.js": "/react-data-viz-pro/static/js/main.60530340.js",
     "index.html": "/react-data-viz-pro/index.html",
     "main.e6c13ad2.css.map": "/react-data-viz-pro/static/css/main.e6c13ad2.css.map",
-    "main.5d4fc4ab.js.map": "/react-data-viz-pro/static/js/main.5d4fc4ab.js.map"
+    "main.60530340.js.map": "/react-data-viz-pro/static/js/main.60530340.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5d4fc4ab.js"
+    "static/js/main.60530340.js"
   ]
 }
