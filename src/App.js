@@ -12,11 +12,11 @@ function App() {
       <div className="min-h-screen bg-gray-50">
         <Routes>
           <Route 
-            path="/" 
+            index
             element={<Home setFileData={setFileData} setColumns={setColumns} />} 
           />
           <Route 
-            path="/dashboard" 
+            path="dashboard" 
             element={
               <Dashboard 
                 fileData={fileData} 
@@ -25,6 +25,7 @@ function App() {
               />
             } 
           />
+          <Route path="*" element={<Home setFileData={setFileData} setColumns={setColumns} />} />
         </Routes>
       </div>
     </HashRouter>

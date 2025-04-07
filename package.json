@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://prerna-gattani.github.io/react-data-viz-pro",
+  "homepage": "https://prerna-gattani.github.io/react-data-viz-pro/",
   "name": "data-viz-pro",
   "version": "0.1.0",
   "private": true,
@@ -26,8 +26,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
