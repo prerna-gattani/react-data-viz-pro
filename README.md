@@ -3,10 +3,10 @@
 An interactive and dynamic data visualization React app that transforms complex datasets into beautiful and insightful charts. Built using React, Chart.js, and styled with modern CSS for a polished look. 📊✨
 
 ## **🌟 Features:**
-📈 Visualize various datasets through bar charts, line charts, pie charts, and more.
-🔄 Real-time data updates and responsive design.
-🎯 Toggle between different chart types and datasets easily.
-📊 Clean, modern, and intuitive UI to explore data visually.
+- 📈 Visualize various datasets through bar charts, line charts, pie charts, and more.
+- 🔄 Real-time data updates and responsive design.
+- 🎯 Toggle between different chart types and datasets easily.
+- 📊 Clean, modern, and intuitive UI to explore data visually.
 
 ## **🌐 Live Demo:**
 You can see the live demo of this project at [Live Demo](https://prerna-gattani.github.io/react-data-viz-pro/).
